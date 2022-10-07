@@ -4,8 +4,11 @@
 
 
 ## We provide service in the following domain:
-1. [Physical Design -  Construction, Validation, Sign-off](#general-info)
-    1. [Physical Design -  Construction, Validation, Sign-offdd](#general-info)
+1. [Physical Design -  Construction, Validation, Sign-off]()
+    1. [Floorplanning/PDN Design]()
+    2. Placement
+    3. Routing
+    4. CTS
 2. [Technologies](#technologies)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
