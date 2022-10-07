@@ -3,7 +3,7 @@
 ## A leader in secure and reliable chip design tools and methodology development.
 
 
-###### We provide services in full chip RTL to GDS-II, ASIC Design flow. Our objective is to provide secure and reliable chip design tool and metho GDS-II generation. 
+###### We provide services in full chip ASIC Design flow (RTL to GDS-II generation). Our objective is to provide services in physical design tool and methodology development in order to make secure and reliable chip (or GDS-II).
 ### Our services can be listed as follows:
 1. Physical Design -  Construction, Validation, Sign-off
     1. Floorplanning/PDN Design
