@@ -4,42 +4,29 @@
 
 
 ## We provide service in the following domain:
-1. [Physical Design -  Construction, Validation, Sign-off]()
-    1. [Floorplanning/PDN Design]()
+1. Physical Design -  Construction, Validation, Sign-off
+    1. Floorplanning/PDN Design
     2. Placement
     3. Routing
     4. CTS
-2. [Technologies](#technologies)
-3. [Installation](#installation)
-4. [Collaboration](#collaboration)
+2. Physical Design - Timing/Area/Power sign-off
+3. Physical Design - Security/Verification/Sign-off
+    1. Side-Channel Analysis - PSC, EMSC, OSC
+    2. Fault Injection - TFI, VFI, LFI, EMFI, Clock-glitch
+4. Physical Design - Reliability/Verification/sign-off
+    1. IR drop - interconnect
+    2. Electromigration - interconnect
+    3. ESD - Peripheral
+    4. NBTI/PBTI - device layer
+    5. HCI - device layer
+5. Physical Design - Manufacturability/Verification/Sign-off
+    1. DRC
+    2. ERC
+    3. LVS
+    4. Antenna Rule Check
+    5. Parasitic Extraction
 
-## We provide service in the following domain:
-### Physical Design -  Construction, Validation, Sign-off
-###### Floorplanning/PDN Design
-###### Placement
-###### Routing
-###### CTS
 
-### Physical Design - Timing/Area/Power sign-off
-
-### Physical Design - Security/Verification/Sign-off
-###### Side-Channel Analysis - PSC, EMSC, OSC
-###### Fault Injection - TFI, VFI, LFI, EMFI, Clock-glitch
-
-
-### Physical Design - Reliability/Verification/sign-off
-###### IR drop - interconnect
-###### Electromigration - interconnect
-###### ESD - Peripheral
-###### NBTI/PBTI - device layer
-###### HCI - device layer
-
-## Physical Design - Manufacturability/Verification/Sign-off
-###### DRC
-###### ERC
-###### LVS
-###### Parasitic extraction
-###### Antenna rule check
 
 
 
