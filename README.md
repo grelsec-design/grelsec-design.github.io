@@ -4,7 +4,7 @@
 
 
 ###### We provide services in full chip RTL to GDS-II, ASIC Design flow. Our objective is to provide secure and reliable chip design tool and metho GDS-II generation. 
-### Our services can be listed as follows
+### Our services can be listed as follows:
 1. Physical Design -  Construction, Validation, Sign-off
     1. Floorplanning/PDN Design
     2. Placement
