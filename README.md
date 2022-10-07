@@ -1,6 +1,6 @@
 # Welcome to Grelsec Design Technologies
 # ![alt text align="right" width="100%"](https://github.com/grelsec-design/grelsec-design.github.io/blob/main/logo.jpg?raw=true)
-## A leader in secure and reliable chip design tools.
+## A leader in secure and reliable chip design tools and methodology development.
 
 
 ### We provide services in full RTL to GDS-II ASIC Design flow. Our objective is to provide secure and reliable chip design GDS-II generation. Our services can be listed as follows:
