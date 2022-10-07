@@ -6,24 +6,26 @@
 
 
 ## We provide service in the following domain:
-###### Physical Design -  Construction, Validation, Sign-off
-###### Physical Verification
-
-## Physical Design - Construction
+## Physical Design -  Construction, Validation, Sign-off
 ### Floorplanning/PDN Design
 ### Placement
 ### Routing
 ### CTS
+
 ## Physical Design - Timing/Area/Power sign-off
+
 ## Physical Design - Security/Verification/Sign-off
 ### Side-Channel Analysis - PSC, EMSC, OSC
 ### Fault Injection - TFI, VFI, LFI, EMFI, Clock-glitch
-##Physical Design - Reliability/Verification/sign-off
+
+
+## Physical Design - Reliability/Verification/sign-off
 ### IR drop - interconnect
 ### Electromigration - interconnect
 ### ESD - Peripheral
 ### NBTI/PBTI - device layer
 ### HCI - device layer
+
 ## Physical Design - Manufacturability/Verification/Sign-off
 ### DRC
 ### ERC
