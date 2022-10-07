@@ -9,9 +9,9 @@
 </p>
 
 
-# Table of Contents
+# We provide the following services
 <details>
-<summary><b>(click to expand)</b></summary>
+
 <!-- MarkdownTOC -->
 
 1. [TLDR:](#tldr)
