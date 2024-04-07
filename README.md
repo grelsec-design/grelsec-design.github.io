@@ -4,7 +4,7 @@
 
 
 ###### We provide services in full chip ASIC Design flow (RTL to GDS-II generation). Our objective is to provide services in physical design tool and methodology development in order to make secure and reliable chip (or GDS-II). We also provide services in Analog and Mixed Signal/RF IC (Custom IC Design) design solutions for IP creation.
-## In ASIC Design:
+## In ASIC Design (RTL to GDSII):
 ### Our services can be listed as follows:
 1. Physical Design -  Construction, Validation, Sign-off
     1. Floorplanning/PDN Design
@@ -28,7 +28,8 @@
     4. Antenna Rule Check
     5. Parasitic Extraction
   
-## In Custom IC Design our services can be listed as follows:
+## In Custom IC Design:
+### Our services can be listed as follows:
 1. Schematic Design
 2. Custom Layout Design
 3. Simulation with support for:
@@ -43,7 +44,9 @@
    5. Parasitic Extraction
 6. Sign-off
     1. Aging
-    2. Reliability 
+    2. Reliability - IR drop, Electromigration
+    3. ESD
+    4. Electromagnetic Induction (EMI)
 
 
 ## For more details contact: grelsec.design@gmail.com
