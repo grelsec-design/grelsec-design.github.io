@@ -3,7 +3,8 @@
 ## A leader in secure and reliable chip design tools and methodology development.
 
 
-###### We provide services in full chip ASIC Design flow (RTL to GDS-II generation). Our objective is to provide services in physical design tool and methodology development in order to make secure and reliable chip (or GDS-II).
+###### We provide services in full chip ASIC Design flow (RTL to GDS-II generation). Our objective is to provide services in physical design tool and methodology development in order to make secure and reliable chip (or GDS-II). We also provide services in Analog and Mixed Signal/RF IC (Custom IC Design) design solutions for IP creation.
+## In ASIC Design:
 ### Our services can be listed as follows:
 1. Physical Design -  Construction, Validation, Sign-off
     1. Floorplanning/PDN Design
@@ -21,11 +22,28 @@
     4. NBTI/PBTI - device layer
     5. HCI - device layer
 5. Physical Design - Manufacturability/Verification/Sign-off
-    1. Parasitic Extraction
-    2. DRC
-    3. ERC
-    4. LVS
-    5. Antenna Rule Check
+    1. DRC
+    2. ERC
+    3. LVS
+    4. Antenna Rule Check
+    5. Parasitic Extraction
+  
+## In Custom IC Design our services can be listed as follows:
+1. Schematic Design
+2. Custom Layout Design
+3. Simulation with support for:
+   1. High sigma simulation
+   2. Monte-Carlo Simulation
+   3. Enhanced fast simulation
+5. Physical Verification
+   1. DRC
+   2. LVS
+   3. ERC
+   4. Antenna Rule Check
+   5. Parasitic Extraction
+6. Sign-off
+    1. Aging
+    2. Reliability 
 
 
 ## For more details contact: grelsec.design@gmail.com
