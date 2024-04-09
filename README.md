@@ -4,7 +4,7 @@
 
 
 #### We provide services in full chip ASIC Design flow (RTL to GDS-II generation). Our objective is to provide services in physical design tool and methodology development in order to make secure and reliable chip (or GDS-II). We also provide services in Analog and Mixed Signal/RF IC (Custom IC Design) design solutions for several IP creation such as DDR memory interface, clocking (PLL/DLL), SerDes, High Speed I/O (HSIO), General Purpose I/O (GPIO), data converters (ADC/DAC), signal conditioning filters etc.
-## In ASIC Design (RTL to GDSII)
+## ASIC Design (RTL to GDSII)
 ### Our services can be listed as follows:
 1. Physical Design -  Construction, Validation, Sign-off
     1. Floorplanning/PDN Design
@@ -28,7 +28,7 @@
     4. Antenna Rule Check
     5. Parasitic Extraction
   
-## In Custom IC Design
+## Custom IC Design
 ### Our services can be listed as follows:
 1. Schematic Design
 2. Custom Layout Design
